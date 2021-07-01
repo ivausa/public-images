@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="a">
+      <polygon points="3.05 30.96 1 30.96 7.51 9.04 9.57 9.04 3.05 30.96" fill="#ea0029" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <rect width="40" height="40"/>
+  <g>
+    <path d="M25.3,9h2L20.74,29.59a2,2,0,0,1-.72,1,1.91,1.91,0,0,1-1.18.38,2,2,0,0,1-1.19-.39,1.89,1.89,0,0,1-.71-1L10.39,9h2l5.77,19.25a.63.63,0,0,0,.65.48.61.61,0,0,0,.64-.45Z" fill="#672666" fill-rule="evenodd"/>
+    <g>
+      <polygon points="3.05 30.96 1 30.96 7.51 9.04 9.57 9.04 3.05 30.96" fill="#ea0029" fill-rule="evenodd"/>
+      <g clip-path="url(#a)">
+        <polygon points="-4.36 5.41 10.38 5.41 10.38 35.38 -4.36 35.38 -4.36 5.41 -4.36 5.41" fill="#ea0029"/>
+      </g>
+    </g>
+    <path d="M24.09,31h-2l6.59-20.55a2,2,0,0,1,.72-1A2,2,0,0,1,30.55,9a2,2,0,0,1,1.9,1.42L39,31H37L31.2,11.71a.63.63,0,0,0-.65-.48.62.62,0,0,0-.64.46Z" fill="#0091b3" fill-rule="evenodd"/>
+  </g>
+</svg>
